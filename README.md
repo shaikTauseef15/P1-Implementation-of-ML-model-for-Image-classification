@@ -17,14 +17,15 @@ Useful for practical applications where image classification is needed.
 ## Prerequisites
 Python 3.7 or later
 A web browser
-#   Installation
-   # Clone the repository:
-git clone https://github.com/JayRathod341997/DeepLensX.git
+# Installation
+   Clone the repository:
+git clone https://github.com/JayRathod341997/DeepLensX.git and 
 cd Implementation-of-ML-model-for-image-classification
 
    # Create and activate a virtual environment:
-python -m venv venv
-source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+python -m venv venv and 
+source venv/bin/activate   
+& On Windows use `venv\Scripts\activate`
    # Install the required packages:
 pip install -r requirements.txt
    # Start the Streamlit app:
