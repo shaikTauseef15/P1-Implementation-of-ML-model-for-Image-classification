@@ -13,3 +13,24 @@ Educational and Practical Use:
 
 Ideal for learning about deep learning models and their performance.
 Useful for practical applications where image classification is needed.
+# Getting Started
+##Prerequisites
+Python 3.7 or later
+A web browser
+#   Installation
+Clone the repository:
+git clone https://github.com/JayRathod341997/DeepLensX.git
+cd Implementation-of-ML-model-for-image-classification
+Create and activate a virtual environment:
+python -m venv venv
+source venv/bin/activate   # On Windows use `venv\Scripts\activate`
+Install the required packages:
+pip install -r requirements.txt
+Start the Streamlit app:
+streamlit run app.py
+Open the app: The app will open in your default web browser. If not, navigate to http://localhost:8501
+# Contributing
+Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.
+# Acknowledgements
+Streamlit
+TensorFlow
